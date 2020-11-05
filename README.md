@@ -6,8 +6,7 @@ Robot Gladiators is a browser-based JavaScript game, which was created during my
 1. [Deployed Page](#deployed-page)
 2. [Built With](#built-with)
 3. [Game Features](#game-features)
-4. [JavaScript Features](#javascript-features)
-5. [Contribution](#contribution)
+4. [Contribution](#contribution)
 
 # Deployed Page
 [Robot Gladiators Deployed Page](https://valiantcreative33.github.io/robot-gladiators/)
